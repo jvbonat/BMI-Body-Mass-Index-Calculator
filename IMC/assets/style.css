@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Roboto&display=swap');
+
+.container{
+    max-width: 540px;
+    margin: 50px auto;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+body{
+    background-color: rgb(13,106,134);
+}
+
+.alinhada1{
+    display: inline-block;
+    font-size: 1.6em;
+}
+
+.alinhada2{
+    display: inline-block;
+    margin-left:80px;
+    font-size: 1.6em;
+}
+
+.form{
+    padding: 20px;
+    font-size: 1.6em;
+    margin-bottom: 40px;
+}
+
+.altura,.peso{
+    display: block;
+    width: 150px;
+    margin-bottom: 10px;
+    padding: 6px;
+    border-radius: 2px;
+    font-family: 'Roboto', sans-serif;
+    height: 30px;
+    font-size: 20px;
+}
+
+.btn{
+    background-color:rgb(13,106,134);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:4px;
+    cursor: pointer;
+}
+
+.h1{
+    font-size: 2.0em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.bad{
+    background-color: rgb(219, 56, 56);
+    padding: 20px;
+    font-size: 1.6em;
+}
+
+.paragrafo-resultado{
+    background-color: rgb(29, 196, 101);
+    padding: 20px;
+    font-size: 1.6em;
+}
+
